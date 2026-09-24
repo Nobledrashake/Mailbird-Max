@@ -1,0 +1,23 @@
+{
+  "repo": "mailbird-max",
+  "product": "Mailbird Max",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "office-suite",
+  "topics": [
+    "mailbird",
+    "mailbird-windows",
+    "office-suite-desktop",
+    "how-to-install-mailbird",
+    "mailbird-desktop-package",
+    "mailbird-workspace",
+    "mailbird-pro-tools",
+    "mailbird-suite",
+    "zentool-mailbird",
+    "mailbird-tool-9"
+  ],
+  "site": "zentool.art"
+}
